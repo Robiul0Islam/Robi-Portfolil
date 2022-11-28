@@ -70,6 +70,8 @@ section{
     box-shadow: 10px 10px 50px rgb(46, 46, 46);
     border-radius: 7px;
     height: 60%;
+    width: 38%;
+    float: left;
 }
 .boxHeadLine{
     color:darkgreen;

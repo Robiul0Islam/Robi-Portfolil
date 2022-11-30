@@ -92,4 +92,14 @@ section{
 footer{
     text-align: center;
 }
+#videoText{
+    font-weight: bolder;
+    text-align: center;
+}
+#video{
+    margin-left: 23%;
+    width: 700px;
+    border-radius: 10px;
+    
+}
 
